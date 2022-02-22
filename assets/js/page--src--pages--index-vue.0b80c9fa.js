@@ -172,7 +172,7 @@
                 A = u.a.config.optionMergeStrategies.computed,
                 m = {
                     metadata: {
-                        siteName: "山风",
+                        siteName: "灞遍",
                         nav: {
                             home: [{
                                 name: "Blog",
@@ -195,7 +195,7 @@
                         },
                         beian: {
                             link: "https://beian.miit.gov.cn/",
-                            text: "粤ICP备20009331号"
+                            text: "绮CP澶�20009331鍙�"
                         }
                     }
                 },
@@ -251,7 +251,7 @@
                         }
                     }), i("footer", {
                         staticClass: "frame__copyright"
-                    }, [i("div", [t._v("© " + t._s((new Date).getFullYear()) + " Ceynri")]), t.$static.metadata.beian ? i("a", {
+                    }, [i("div", [t._v("漏 " + t._s((new Date).getFullYear()) + " Ceynri")]), t.$static.metadata.beian ? i("a", {
                         attrs: {
                             href: t.$static.metadata.beian.link
                         }
