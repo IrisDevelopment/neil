@@ -253,8 +253,6 @@ html {
 body {
     font-family: Poppins, Myriad Pro, -apple-system, BlinkMacSystemFont, PingFang SC, Microsoft YaHei, Arial, sans-serif;
     font-weight: 400
-    height: 100%;
-    overflow-y: hidden;
 }
 
 details,
