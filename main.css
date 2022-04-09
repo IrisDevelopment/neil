@@ -123,3 +123,8 @@ code {
   color: #e4cb58;
   font: inherit;
 }
+
+.buttons a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
